@@ -9,7 +9,8 @@ This requires a recently up to date version of Python for Windows with the follo
 
 
 To run this, please install the following with PIP:
-    pip install requests /n
-    pip install termcolor /n
-    pip install psutil /n 
-    pip install colorama /n
+    
+- pip install termcolor
+- pip install requests
+- pip install colorama
+- pip install psutil
